@@ -1,0 +1,33 @@
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\appsettings.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Options Pattern.exe
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Options Pattern.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Options Pattern.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Options Pattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Options Pattern.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets\msbuild.Options Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets\msbuild.build.Options Pattern.props
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Options Pattern.props
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Options Pattern.props
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\scopedcss\bundle\Options Pattern.styles.css
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.csproj.CopyComplete
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\refint\Options Pattern.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\Options Pattern.genruntimeconfig.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\ASP.NET\Options Pattern\Options Pattern\obj\Debug\net7.0\ref\Options Pattern.dll
